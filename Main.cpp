@@ -672,9 +672,9 @@
 	    mejorGlobal=crcaMakeSpan(solGlobal);
 	  	imprimirMatriz();
 		imprimirFormato(solGlobal);
-		for(i=0;i<nMaq*nJob;i++)
+	/*	for(i=0;i<nMaq*nJob;i++)
 		{
 			printf(" %d ",listaTabu[i]);
-		}	
+		}	*/
 		return 0;
 	}
